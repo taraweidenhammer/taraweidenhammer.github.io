@@ -1,0 +1,9 @@
+:link { color: #666666 }
+:visited { color: #666666 }
+:active { color: #666666 }
+ body { background-color: #333; font-family: arial, san serif;}
+ body.c5 {color: rgb(102, 102, 102); background-color: rgb(51, 51, 51);}
+ span.c3 {font-family: Arial; font-size: 70%}
+ span.c2 {color: rgb(153, 153, 153); font-family: Arial; font-size: 70%}
+ span.c1 {color: rgb(153, 153, 153); font-family: Arial; font-size: 80%}
+ table.thumbnails img {width:400px}
